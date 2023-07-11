@@ -1,3 +1,4 @@
+![03214d52-1491-4fb5-8a63-a0d7a737357d](https://github.com/christabely/christabely/assets/129256391/03fd661b-9c72-43a7-8e3d-6340a676039e)
 - 👋 Hi, I’m @christabely
 - 👀 I’m interested in Backend and Frontend Engineering and App Development.
 - 🌱 I’m currently studying Software Engineering @Alx / @Holberton School
