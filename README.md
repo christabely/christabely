@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christabel Aidoo @christabely
+- 👋 Hi, I’m @christabely
 - 👀 I’m interested in Backend and Frontend Engineering and App Development.
 - 🌱 I’m currently studying Software Engineering @Alx / @Holberton School
 - 💞️ I'm looking to collaborate on App Development and Web Development Projects.
