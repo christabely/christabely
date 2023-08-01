@@ -7,8 +7,8 @@ Hi, I'm Christabel Aidoo
 - I’m interested in Backend and Frontend Engineering and App Development.
 - 💞️ I'm looking forward to collaborate on App Development and Web Development Projects.
 - 🌱 I’m currently studying Software Engineering @Alx / @Holberton School
-- Don't forget to connect 😉
-- 📫 You can also reach me on twitter/ http://www.twitter.com/christably
+- You can also reach me on ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/3ef568d3-b50a-41cc-b416-c90c11fd4dcb)
+   http://www.twitter.com/christably
 
 💻Tech Stack:
 - ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/e4ff702c-c4f2-40fb-91b8-c6a310c7b8ce) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/151e5ff5-dccb-4f9a-8c43-443f9ec49ce9)
