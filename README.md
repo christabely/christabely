@@ -1,9 +1,19 @@
-![03214d52-1491-4fb5-8a63-a0d7a737357d](https://github.com/christabely/christabely/assets/129256391/03fd661b-9c72-43a7-8e3d-6340a676039e)
-Hi, I'm Christabel Aidoo
+![20dd0f0c-f2df-487e-8c60-763ab02da874](https://github.com/christabely/Cassintimates_blog/assets/129256391/16738584-a48b-45b6-bf15-abdb54ca6e61)
+Hi, I'm [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
 
 ![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d333026636f6c6f72 747275652677696474683d383030266c696e65733d4865726527732b6d792b70726f66696c652e2b4665656c2b667265652b746f2b636f6e6e6563742e (1)](https://github.com/christabely/christabely/assets/129256391/0d223b68-8045-4107-bb9c-0aff6801de83)
 
 💫 About Me:
+## MY STORY 
+
+My motivation for higher learning stems from the quest to be a better version of myself, a purposeful human and a positive influnce to others.
+Leveraging my legal background with a graduate degree in Legal Studies and possession of in-depth legal knowledge in diverse fields, and having garnered multiple expertise and skills through various roles and positions held, I am  competent, adaptable and bring multiple skills and knowledge to the table.
+I am also a skilled writer and communicator. I excel in negotiation, calmly diffusing tense situations, persuading team members and clients strategically and proficient in problem-solving.
+I thrive both collaboratively and independently.
+My expertise extends to programming languages such as C, Python, Html, JavaScript, CSS and to tools like Word, Excel, PowerPoint, and other software and hardware.
+I am currently nearing completion in the ALX Software Engineering Program and poised to specializing in Backend development.
+I am a detail-oriented, professional, driven by passion to excell and open to continual learning.
+I am committed to utilizing every skill and knowledge acquired to solve challenges that confront our daily lives and make living less stressful.
 - I’m interested in Backend and Frontend Engineering and App Development.
 - 💞️ I'm looking forward to collaborating on App Development and Web Development Projects.
 - 🌱 I’m currently studying Software Engineering @Alx / @Holberton School
