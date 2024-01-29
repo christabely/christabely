@@ -8,7 +8,7 @@ Hi, I'm [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
 
 My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and to contribute to cutting-edge innovations for the society.
 
-**MY PROFESSIONAL LIFE 📚 🎓**
+## MY PROFESSIONAL LIFE 🎓 📚
 
 Possessing a Bachelor's in Legal Studies with a profound understanding of Company Law, English Law, and Business Law, I am well-versed in addressing intricate legal matters. Additionally, I am a tech enthusiast specializing in Backend development with @ALX. 💼🖥️
 
@@ -36,14 +36,15 @@ Through diverse roles in various organizations, I've acquired extensive skills, 
 
 - **Problem Solver:** Committed to utilizing acquired skills and knowledge to effectively address challenges in daily life, aiming to enhance overall quality and reduce stress.
 
- 📞 +233 0504887900
- 
+📧 [Christabel Aidoo](mailto:christabelaidoo71@gmail.com)
+
  🐦http://www.twitter.com/christably
+ 
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/1c06834b-5dbb-4255-b0b7-b9c21fc5f85d)
 https://www.linkedin.com/in/christabely
 
 
-💻Tech Stack:
+## Tech Stack 💻:
 - ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/e4ff702c-c4f2-40fb-91b8-c6a310c7b8ce) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/151e5ff5-dccb-4f9a-8c43-443f9ec49ce9)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/4ba4e7e4-2cb6-4a1d-a7b5-2ebef7970be6)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://github.com/christabely/christabely/assets/129256391/e4406f34-0b88-4738-9432-507f1d6d904b)
