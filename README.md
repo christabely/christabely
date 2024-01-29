@@ -36,23 +36,9 @@ Through diverse roles in various organizations, I've acquired extensive skills, 
 
 - **Problem Solver:** Committed to utilizing acquired skills and knowledge to effectively address challenges in daily life, aiming to enhance overall quality and reduce stress.
 
-
-
-
-
-
-
-- **Aspirations in Engineering and Development:** Interested in Backend and Frontend Engineering and App Development, eager to contribute to meaningful projects.
-
-- **Collaboration Enthusiast:** Looking forward to collaborating on App Development and Web Development Projects.
-
-
-
-- I’m interested in Backend and Frontend Engineering and App Development.
-- 💞️ I'm looking forward to collaborating on App Development and Web Development Projects.
-- I’m currently studying Software Engineering @Alx / @Holberton School
-- ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/3ef568d3-b50a-41cc-b416-c90c11fd4dcb)
-   http://www.twitter.com/christably
+ 📞 +233 0504887900
+ 
+ 🐦http://www.twitter.com/christably
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/1c06834b-5dbb-4255-b0b7-b9c21fc5f85d)
 https://www.linkedin.com/in/christabely
 
@@ -67,7 +53,7 @@ https://www.linkedin.com/in/christabely
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/a361d1e1-00d0-424d-8342-de94e2b4b187)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304166746572253230456666656374732d 6c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230416674657225323045666665637473266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/1cba2b98-e322-4c64-b16a-a70e7170b569)
 
-
+**🌟 Collaboration and Aspirations in Engineering and Development 🌟:** Interested in Backend and Frontend Engineering and App Development, eager to contribute to meaningful projects.
 
 <!---
 christabely/christabely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
