@@ -6,10 +6,12 @@ Hi, I'm [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
 💫 About Me:
 ## MY STORY 
 
-My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and a positive influnce to others.
+My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and to contribute to cutting-edge innovations for the society.
 
-## MY PROFESSIONAL LIFE
-Leveraging my legal background with a graduate degree in Legal Studies and possession of in-depth legal knowledge in diverse fields, and having garnered multiple expertise and skills through various roles and positions held, I am  competent, adaptable and bring multiple skills and knowledge to the table.
+**MY PROFESSIONAL LIFE 📚 🎓**
+
+Possessing a Bachelor's in Legal Studies with a profound understanding of Company Law, English Law, and Business Law, I am well-versed in addressing intricate legal matters. Additionally, I am a tech enthusiast specializing in Backend development with @ALX.Through diverse roles in various organizations, I've acquired extensive skills, making me well-suited for versatile roles 💼🖥️
+
 
 ## MY SKILLS
 I am also a skilled writer and communicator. I excel in negotiation, calmly diffusing tense situations, persuading team members and clients strategically and proficient in problem-solving.
