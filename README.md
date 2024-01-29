@@ -6,12 +6,16 @@ Hi, I'm [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
 💫 About Me:
 ## MY STORY 
 
-My motivation for higher learning stems from the quest to be a better version of myself, a purposeful human and a positive influnce to others.
+My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and a positive influnce to others.
+
+## MY PROFESSIONAL LIFE
 Leveraging my legal background with a graduate degree in Legal Studies and possession of in-depth legal knowledge in diverse fields, and having garnered multiple expertise and skills through various roles and positions held, I am  competent, adaptable and bring multiple skills and knowledge to the table.
+
+## MY SKILLS
 I am also a skilled writer and communicator. I excel in negotiation, calmly diffusing tense situations, persuading team members and clients strategically and proficient in problem-solving.
 I thrive both collaboratively and independently.
 My expertise extends to programming languages such as C, Python, Html, JavaScript, CSS and to tools like Word, Excel, PowerPoint, and other software and hardware.
-I am currently nearing completion in the ALX Software Engineering Program and poised to specializing in Backend development.
+I am currently specializing in Backend development with ALX.
 I am a detail-oriented, professional, driven by passion to excell and open to continual learning.
 I am committed to utilizing every skill and knowledge acquired to solve challenges that confront our daily lives and make living less stressful.
 - I’m interested in Backend and Frontend Engineering and App Development.
