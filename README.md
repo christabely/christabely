@@ -4,7 +4,7 @@ Hi, I'm [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
 ![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d333026636f6c6f72 747275652677696474683d383030266c696e65733d4865726527732b6d792b70726f66696c652e2b4665656c2b667265652b746f2b636f6e6e6563742e (1)](https://github.com/christabely/christabely/assets/129256391/0d223b68-8045-4107-bb9c-0aff6801de83)
 
 💫 About Me:
-## MY STORY 
+## MY STORY 💞️
 
 My drive for tech and higher learning stems from the quest to be a better version of myself, a purposeful human and to contribute to cutting-edge innovations for the society.
 
@@ -12,7 +12,7 @@ My drive for tech and higher learning stems from the quest to be a better versio
 
 Possessing a Bachelor's in Legal Studies with a profound understanding of Company Law, English Law, and Business Law, I am well-versed in addressing intricate legal matters. Additionally, I am a tech enthusiast specializing in Backend development with @ALX. 💼🖥️
 
-## MY SKILLS 💞️
+## MY SKILLS
 
 Through diverse roles in various organizations, I've acquired extensive skills, making me well-suited for versatile roles.
 
