@@ -10,19 +10,47 @@ My drive for tech and higher learning stems from the quest to be a better versio
 
 **MY PROFESSIONAL LIFE 📚 🎓**
 
-Possessing a Bachelor's in Legal Studies with a profound understanding of Company Law, English Law, and Business Law, I am well-versed in addressing intricate legal matters. Additionally, I am a tech enthusiast specializing in Backend development with @ALX.Through diverse roles in various organizations, I've acquired extensive skills, making me well-suited for versatile roles 💼🖥️
+Possessing a Bachelor's in Legal Studies with a profound understanding of Company Law, English Law, and Business Law, I am well-versed in addressing intricate legal matters. Additionally, I am a tech enthusiast specializing in Backend development with @ALX. 💼🖥️
+
+## MY SKILLS 💞️
+
+Through diverse roles in various organizations, I've acquired extensive skills, making me well-suited for versatile roles.
+
+- **Technical Proficiency 🌱:** Expertise in programming languages, including C, Python, HTML, JavaScript, and CSS. Skilled with tools such as Word, Excel, PowerPoint, and other software and hardware.
+
+- **Technical Expertise:** Proficient in database management, API integration, and version control systems. Familiarity with frameworks such as Django and Flask.
+
+- **Backend Development:** Currently specializing in Backend development with ALX, enhancing my technical capabilities.
+
+- **Project Management:** Proficiency in project planning, execution, and coordination, ensuring timely delivery and successful outcomes.
+
+- **Strategic Communicator:** A skilled writer and communicator, I excel in negotiation, strategic persuasion, and adeptly diffuse tense situations. Proficient in problem-solving, I contribute effectively to team dynamics.
+
+- **Paralegal Proficiency:** Well-versed in legal research, document preparation, and case management, ensuring meticulous attention to detail and compliance with legal procedures.
+
+- **Human Resources:** Possess HR skills, including talent acquisition, employee relations, and performance management, contributing to a positive and productive work environment.
+
+- **Company Secretary Skills:** Familiar with corporate governance, compliance, and regulatory requirements, ensuring adherence to legal and organizational standards.
+
+- **Operations Management:** Experienced in streamlining operations, optimizing processes, and enhancing overall efficiency to meet organizational goals.
+
+- **Problem Solver:** Committed to utilizing acquired skills and knowledge to effectively address challenges in daily life, aiming to enhance overall quality and reduce stress.
 
 
-## MY SKILLS
-I am also a skilled writer and communicator. I excel in negotiation, calmly diffusing tense situations, persuading team members and clients strategically and proficient in problem-solving.
-I thrive both collaboratively and independently.
-My expertise extends to programming languages such as C, Python, Html, JavaScript, CSS and to tools like Word, Excel, PowerPoint, and other software and hardware.
-I am currently specializing in Backend development with ALX.
-I am a detail-oriented, professional, driven by passion to excell and open to continual learning.
-I am committed to utilizing every skill and knowledge acquired to solve challenges that confront our daily lives and make living less stressful.
+
+
+
+
+
+- **Aspirations in Engineering and Development:** Interested in Backend and Frontend Engineering and App Development, eager to contribute to meaningful projects.
+
+- **Collaboration Enthusiast:** Looking forward to collaborating on App Development and Web Development Projects.
+
+
+
 - I’m interested in Backend and Frontend Engineering and App Development.
 - 💞️ I'm looking forward to collaborating on App Development and Web Development Projects.
-- 🌱 I’m currently studying Software Engineering @Alx / @Holberton School
+- I’m currently studying Software Engineering @Alx / @Holberton School
 - ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/3ef568d3-b50a-41cc-b416-c90c11fd4dcb)
    http://www.twitter.com/christably
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/christabely/christabely/assets/129256391/1c06834b-5dbb-4255-b0b7-b9c21fc5f85d)
