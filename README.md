@@ -12,7 +12,7 @@ My drive for tech and higher learning stems from the quest to be a better versio
 
 Possessing a Bachelor's in Legal Studies with a profound understanding of Company Law, English Law, and Business Law, I am well-versed in addressing intricate legal matters. Additionally, I am a tech enthusiast specializing in Backend development with @ALX. 
 
-## MY SKILLS 🛠️
+## MY SKILLS 🛠️ 🌐
 
 Through diverse roles in various organizations, I've acquired extensive skills, making me well-suited for versatile roles.
 
