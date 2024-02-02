@@ -14,17 +14,15 @@ Possessing a Bachelor's in Legal Studies with a profound understanding of Compan
 
 ## MY SKILLS 🛠️ 🌐
 
-Through diverse roles in various organizations, I've acquired extensive skills, making me well-suited for versatile roles.
+Diverse roles in various organizations grant me extensive skills, making me well-suited for versatile roles.
 
-- **Technical Proficiency:** Expertise in programming languages, including C, Python, HTML, JavaScript, and CSS. Skilled with tools such as Word, Excel, PowerPoint, and other software and hardware.
+- **Technical Expertise:** C, Python, HTML, JavaScript, CSS, API integration, Django, Flask, and version control systems.
 
-- **Technical Expertise:** Proficient in database management, API integration, and version control systems. Familiarity with frameworks such as Django and Flask.
+- **Backend Development:** Currently specializing in Backend development with ALX.
 
-- **Backend Development:** Currently specializing in Backend development with ALX, enhancing my technical capabilities.
+- **Project Management:** Proficiency in project planning, execution, and coordination, and timely delivery.
 
-- **Project Management:** Proficiency in project planning, execution, and coordination, ensuring timely delivery and successful outcomes.
-
-- **Strategic Communicator:** A skilled writer and communicator, I excel in negotiation, strategic persuasion, and adeptly diffuse tense situations. Proficient in problem-solving, I contribute effectively to team dynamics.
+- **Strategic Communicator:** A prolific writer and communicator. Skilled in negotiation, strategic persuasion, and adep diffusion of tense situations. I contribute effectively to team dynamics.
 
 - **Paralegal Proficiency:** Well-versed in legal research, document preparation, and case management, ensuring meticulous attention to detail and compliance with legal procedures.
 
