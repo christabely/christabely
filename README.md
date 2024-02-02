@@ -52,11 +52,9 @@ https://www.linkedin.com/in/christabely
 ![68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f323030783230302f696d616765732f64343164653262372d636263322d343765632d626366312d6562656362653833383732662f4743435f62616467655f44415f3130303078313030302e706e67](https://github.com/christabely/christabely/assets/129256391/63cae648-daf0-46a6-a94e-f09bc28e473c)
 
 
-
-
 ## COLLABORATIONS 🤝
 
-Interested in Backend and Frontend Engineering and App Development, eager to contribute to impactful projects.
+Interested in Backend and Frontend Engineering and App Development. Eager to contribute to impactful projects.
 
 <!---
 christabely/christabely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
