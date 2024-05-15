@@ -1,4 +1,5 @@
-![20dd0f0c-f2df-487e-8c60-763ab02da874](https://github.com/christabely/Cassintimates_blog/assets/129256391/16738584-a48b-45b6-bf15-abdb54ca6e61)
+![20dd0f0c-f2df-487e-8c60-763ab02da874](https://github.com/christabely/christabely/assets/129256391/3a00ff97-6c5d-4d34-bb52-8d7aa31fe575)
+
 Hi, I'm [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
 
 ![68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d333026636f6c6f72 747275652677696474683d383030266c696e65733d4865726527732b6d792b70726f66696c652e2b4665656c2b667265652b746f2b636f6e6e6563742e (1)](https://github.com/christabely/christabely/assets/129256391/0d223b68-8045-4107-bb9c-0aff6801de83)
